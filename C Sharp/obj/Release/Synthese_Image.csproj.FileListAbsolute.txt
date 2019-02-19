@@ -1,0 +1,6 @@
+C:\Users\vmoulard\source\repos\Synthese_Image-master\bin\Release\Synthese_Image.exe.config
+C:\Users\vmoulard\source\repos\Synthese_Image-master\bin\Release\Synthese_Image.exe
+C:\Users\vmoulard\source\repos\Synthese_Image-master\bin\Release\Synthese_Image.pdb
+C:\Users\vmoulard\source\repos\Synthese_Image-master\obj\Release\Synthese_Image.csproj.CoreCompileInputs.cache
+C:\Users\vmoulard\source\repos\Synthese_Image-master\obj\Release\Synthese_Image.exe
+C:\Users\vmoulard\source\repos\Synthese_Image-master\obj\Release\Synthese_Image.pdb
